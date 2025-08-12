@@ -98,5 +98,7 @@ Once the service is running, API documentation is available at:
 
 ## 👨‍💻 Contributors
 
-* **Vaishnavi Patil** **Vagisha Sharma** **Vaishnavi Tathe**
+* **Vaishnavi Patil**
+* **Vagisha Sharma**
+* **Vaishnavi Tathe**
 
