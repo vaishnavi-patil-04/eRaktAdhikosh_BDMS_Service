@@ -26,7 +26,7 @@ It handles **data processing, business logic, and secure database interactions**
 * **ORM**: Hibernate / JPA
 * **Security**: Spring Security (JWT Authentication)
 * **Build Tool**: Maven
-* **API Testing**: Postman / Swagger UI
+* **API Testing**: Postman
 
 ---
 
@@ -81,12 +81,6 @@ mvn spring-boot:run
 
 The backend will run on **`http://localhost:8080/`**.
 
----
-
-## 📡 API Documentation
-
-Once the service is running, API documentation is available at:
-**Swagger UI** → `http://localhost:8080/swagger-ui.html`
 
 ---
 
